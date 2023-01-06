@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab environment using Oracle Virtual Box. The PowerShell script in this repository will create 1,000 users and add them to Active Directory, simulating a corporate user pool.
+In this lab we're going to walk through how to create an Active Directory home lab environment using Oracle Virtual Box. The PowerShell script in this repository will take the 1,000 users from the text file and import them into Active Directory.
 <br />
 
 
