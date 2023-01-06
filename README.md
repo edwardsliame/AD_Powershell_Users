@@ -15,7 +15,9 @@ In this lab we're going to walk through how to create an Active Directory home l
 - <b>Windows 10</b> (21H2)
 - <b>Windows Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
+
+[Full Walk-Through](https://ed-techs.co/)
 
 <p align="center">
 Lab Diagram: <br/>
