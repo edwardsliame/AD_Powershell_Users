@@ -17,7 +17,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Program walk-through</h2>
 
-[Full Walk-Through](https://ed-techs.co/)
+[Full Walk-Through On My Website!](https://ed-techs.co/)
 
 <p align="center">
 Lab Diagram: <br/>
