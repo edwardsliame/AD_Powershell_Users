@@ -21,7 +21,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <p align="center">
 Lab Diagram: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/9I01PlM" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 
 <!--
