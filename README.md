@@ -17,7 +17,7 @@ In this tutorial we’re going to walk through setting up an Active Directory ho
 
 <h2>Program Walk-Through</h2>
 
-[Full Walk-Through On My Website!](https://letslearnit.tech/)
+[Full Walk-Through On My Website!](https://www.letslearnit.tech/active-directory-home-lab/)
 
 <p align="center">
 Diagram of Lab Environment: <br/>
