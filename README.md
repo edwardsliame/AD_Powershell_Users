@@ -20,7 +20,7 @@ In this tutorial we’re going to walk through setting up an Active Directory ho
 [Full Walk-Through On My Website!](https://letslearnit.tech/)
 
 <p align="center">
-Lab Diagram: <br/>
+Diagram of Lab Environment: <br/>
 <img src="https://i.imgur.com/E82qAdx.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 
