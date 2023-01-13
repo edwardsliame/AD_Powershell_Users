@@ -10,10 +10,10 @@ In this tutorial we’re going to walk through setting up an Active Directory ho
 - <b>PowerShell</b> 
 - <b>Oracle VM VirtualBox</b>
 
-<h2>Environments</h2>
+<h2>Environment</h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Windows Server 2019</b>
+- <b>Basic Windows networking environment with Active Directory and a few networking services</b>
+
 
 <h2>Program Walk-Through</h2>
 
